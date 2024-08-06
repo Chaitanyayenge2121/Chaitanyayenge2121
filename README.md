@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Chaitanyayenge2121
+- 👋 Hi, I’m @Chaitanayenge
 - 👀 I’m interested in Robotics
 - 🌱 I’m currently learning Robotics Engineering
 - 💞️ I’m looking to collaborate on ...
